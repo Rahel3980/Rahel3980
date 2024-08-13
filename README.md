@@ -4,7 +4,7 @@
 - 👀 Interested in  software development
 - 🌱 Currently pursuing a BSc in Information Technology
 - 💞️ I’m looking to collaborate on Software Development for Health Applications I have experience in developing  web based applications related to health, such as prenatal care system.
-- 📫 You can reach me on Instagram @shobbisorahel or via email at shobbisorahel@gmail.com
+- 📫 You can reach me on Instagram shobbisorahel or via email at shobbisorahel@gmail.com
 - 📚 Passionate about reading
 - 🙏 Enjoys going to church and praying
 - 🏃‍♀️ Loves to start the day with morning exercise
